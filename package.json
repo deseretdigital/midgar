@@ -1,0 +1,23 @@
+{
+  "name": "midgar",
+  "version": "0.0.1",
+  "description": "The most killer, awesome ACL library ever created on this planet",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deseretdigital/midgar.git"
+  },
+  "keywords": [
+    "acl",
+    "security"
+  ],
+  "author": "Justin Warkentin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deseretdigital/midgar/issues"
+  },
+  "homepage": "https://github.com/deseretdigital/midgar"
+}
